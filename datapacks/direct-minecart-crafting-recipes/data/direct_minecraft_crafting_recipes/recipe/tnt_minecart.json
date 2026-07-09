@@ -1,0 +1,15 @@
+{
+	"result": {
+		"id": "minecraft:tnt_minecart",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"ITI",
+		"III"
+	],
+	"key": {
+		"T": "minecraft:tnt",
+		"I": "minecraft:iron_ingot"
+	}
+}

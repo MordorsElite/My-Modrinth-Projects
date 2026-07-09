@@ -1,0 +1,36 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_iron_ingot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:iron_ingot"
+					}
+				]
+			}
+		},
+		"has_hopper": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:hopper"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_iron_ingot",
+			"has_hopper"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"direct_minecraft_crafting_recipes:hopper_minecart"
+		]
+	}
+}

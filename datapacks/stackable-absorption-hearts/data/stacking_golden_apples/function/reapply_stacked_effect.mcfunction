@@ -1,0 +1,7 @@
+# Reapply Stacked Absorption Effect
+function stacking_golden_apples:calculate_current_absorption_level
+scoreboard players set @s datapack_stacking_absorption_duration 0
+function stacking_golden_apples:decrease_duration_loop
+
+# Reset the join Trigger
+scoreboard players reset @s datapack_stacking_absorption_leave

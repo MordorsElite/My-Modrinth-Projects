@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 107.1,
+        "description": [
+            {
+				"text": "Hitting a Warden with a Compass will make it point towards the closest Ancient City",
+				"color": "gold"
+			},
+			{
+				"text": "\nMordorsElite",
+				"color": "dark_purple"
+			}
+        ]
+    }
+}

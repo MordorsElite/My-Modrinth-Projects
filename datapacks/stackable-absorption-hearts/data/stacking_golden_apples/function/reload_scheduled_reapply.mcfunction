@@ -1,0 +1,1 @@
+execute as @a run function stacking_golden_apples:reapply_stacked_effect

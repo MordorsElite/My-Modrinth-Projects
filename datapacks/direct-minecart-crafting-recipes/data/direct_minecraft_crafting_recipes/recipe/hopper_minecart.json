@@ -1,0 +1,15 @@
+{
+	"result": {
+		"id": "minecraft:hopper_minecart",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"IHI",
+		"III"
+	],
+	"key": {
+		"H": "minecraft:hopper",
+		"I": "minecraft:iron_ingot"
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "min_format": [101, 1],
+        "max_format": [999, 1],
+        "description": [
+            {
+				"text": "Wardens have a 30% chance of dropping Swift Sneak books",
+				"color": "gold"
+			},
+			{
+				"text": "\nMordorsElite",
+				"color": "dark_purple"
+			}
+        ]
+    }
+}

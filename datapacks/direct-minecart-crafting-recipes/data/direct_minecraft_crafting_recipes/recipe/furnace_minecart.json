@@ -1,0 +1,15 @@
+{
+	"result": {
+		"id": "minecraft:furnace_minecart",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"IFI",
+		"III"
+	],
+	"key": {
+		"F": "minecraft:furnace",
+		"I": "minecraft:iron_ingot"
+	}
+}

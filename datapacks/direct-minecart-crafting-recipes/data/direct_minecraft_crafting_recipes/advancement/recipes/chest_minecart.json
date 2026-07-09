@@ -1,0 +1,36 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_iron_ingot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:iron_ingot"
+					}
+				]
+			}
+		},
+		"has_chest": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:chest"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_iron_ingot",
+			"has_chest"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"direct_minecraft_crafting_recipes:chest_minecart"
+		]
+	}
+}
