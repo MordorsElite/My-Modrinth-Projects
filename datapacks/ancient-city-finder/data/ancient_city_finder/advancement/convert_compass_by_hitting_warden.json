@@ -8,18 +8,20 @@
             "direct_entity": {
               "minecraft:entity_type": "minecraft:player",
               "equipment": {
-                  "mainhand": {
-                      "items": [
-                          "minecraft:compass"
-                      ],
-                      "count": 1
-                  }
+                "mainhand": {
+                  "items": "minecraft:compass",
+                  "count": 1
+                }
               }
             }
           }
         },
         "entity": {
-          "minecraft:entity_type": "minecraft:warden"
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:warden"
+          }
         }
       }
     }

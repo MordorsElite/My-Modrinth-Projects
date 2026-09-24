@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 107.1,
+        "min_format": [121, 0],
+        "max_format": [999, 1],
         "description": [
             {
 				"text": "Hitting a Warden with a Compass will make it point towards the closest Ancient City",
