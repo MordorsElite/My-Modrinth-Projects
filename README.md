@@ -18,3 +18,4 @@ You can report issues with any of the Projects [here](https://github.com/Mordors
 
 - Consistent Ender Pearls ([Modrinth](https://modrinth.com/mod/consistent-ender-pearls) | [GitHub](https://github.com/MordorsElite/consistent-ender-pearls))
 - Pushable Budding Amethyst ([Modrinth](https://modrinth.com/mod/pushable-budding-amethyst) | [GitHub](https://github.com/MordorsElite/pushable-budding-amethyst))
+- Simple Shared Villager Discounts ([Modrinth](https://modrinth.com/mod/simple-shared-villager-discounts) | [GitHub](https://github.com/MordorsElite/simple-shared-villager-discounts))
